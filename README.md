@@ -1,12 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Student Scheduler
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+While there are road maps to success, breaking down courses needed each semester to graduate, there are outside factors that may prevent us from following it verbatim. Many of us have jobs, volunteer work, extra curricular activities, and personal life obligations. This is where the schedule builder comes in. A tool that allows us to more easily build a schedule that suits our needs. The issue is the lack of parameters to filter out what will and won't work. As it stands, you need to already have a good idea of the schedule you're trying to build in order for it to work as it requires you specify the classes you want and will prevent you from adding anything that overlaps.
+
+Idea: I would like to create a more robust schedule builder by adding parameters that account for our students desired number of units, times and days available, and allow the selection of overlapping classes. This can be done by taking into account student's Majors and minors, completed prerequisites, and needed general education courses to create, not all schedules given a select number of classes, but all viable schedules given our student's goals and needs. 
 
 ## UX Team Members
 
-* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Lead Tech Innovation Blockchainer Mechanical/Digital Engine Usability Experty
+* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - my contributions :)
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
