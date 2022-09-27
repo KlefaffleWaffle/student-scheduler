@@ -7,8 +7,8 @@ Idea: I would like to create a more robust schedule builder by adding parameters
 ## UX Team Members
 
 * **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - my contributions :)
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Dominic London](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Austin Devine](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
