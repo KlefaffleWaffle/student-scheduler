@@ -8,10 +8,15 @@
 
 ## Exploratory Competitive Analysis <br>
 
-| Product             | Strengths    | Weaknesses | Quality | Price | Platform    |
-| ------------------- | ------------ | ---------- | ------- | ----- | ----------- |
-| CSU Chico's product | can schedule | confusing  | 6       | NA    | web, mobile |
-|                     |              |            |         |       |             |
+| Product              | Strengths                                      | Weaknesses | Quality | Price | Platform    |
+| -------------------- | ---------------------------------------------- | ---------- | ------- | ----- | ----------- |
+| CSU Chico's product  | can schedule                                   | confusing  | 6       | NA    | web, mobile |
+| Starbucks' Teamworks | easily view schedule                           |            |         |       |             |
+|                      | Request change or swap shifts                  |            |         |       |             |
+|                      | Offer shifts for swap                          |            |         |       |             |
+|                      | Notifications when shifts offered or requested |            |         |       |             |
+|                      |                                                |            |         |       |             |
+|                      |                                                |            |         |       |             |
 
 
 ## Hueristic Evaluation of Chico State's Scheduler <br>
