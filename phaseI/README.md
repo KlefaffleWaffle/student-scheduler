@@ -8,13 +8,13 @@
 
 ## Exploratory Competitive Analysis <br>
 
-| Product              | Strengths                                                                                                                        | Weaknesses | Quality | Price | Platform    |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----- | ----------- |
-| CSU Chico's product  | Can Schedule Courses                                                                                                                    | confusing  | 6       | NA    | web, mobile |
-| Starbucks' Teamworks | Easily view schedule<br>Request change or swap shifts<br>Offer shifts for swap<br>Notifications when shifts offered or requested |            |         |       |             |
-|                      |                                                                                                                                  |            |         |       |             |
-|                      |                                                                                                                                  |            |         |       |             |
-|                      |                                                                                                                                  |            |         |       |             |
+| Product              | Strengths                                                                                                                                                                | Weaknesses | Quality | Price | Platform    |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------- | ----- | ----------- |
+| CSU Chico's product  | can schedule                                                                                                                                                             | confusing  | 6       | NA    | web, mobile |
+| Starbucks' Teamworks | easily view schedule<br>Request change or swap shifts<br>Offer shifts for swap<br>Notifications when shifts offered or requested<br>Request time off<br>Direct Messaging |            |         |       |             |
+| BlackBoard           | Highly customizable                                                                                                                                                       |            |         |       |             |
+| Canvas               | Clarity of features                                                                                                                                                                         |            |         |       |             |
+|                      |                                                                                                                                                                          |            |         |       |             |
 
 
 ## Hueristic Evaluation of Chico State's Scheduler <br>
