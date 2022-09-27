@@ -4,9 +4,12 @@
 *Austin Devine* <br>
 *Dominic London* <br>
 
+# Methods - methods used to discover new insights
 
+## Exploratory Competitive Analysis
 
-Methods - Describe methods you used to discover new insights, which explains the purpose of each 
+## Hueristic Evaluation of Chico State's Scheduler
+
 
 
 Findings - For each method, describe:
