@@ -34,7 +34,7 @@ She may want the schedule to be editable by her kids <br> </p>
 ---
 ## Alex
 
-<img src="https://user-images.githubusercontent.com/79026876/192638505-a7b0697e-7c2c-452b-baaf-5436698076b4.jpeg" width="300"
+<img src="https://user-images.githubusercontent.com/79026876/192638505-a7b0697e-7c2c-452b-baaf-5436698076b4.jpeg" width="300"/>
      
 ### Background <br>
 <p>Alex Ander is a 23 year old Chico State computer science junior. <br>
