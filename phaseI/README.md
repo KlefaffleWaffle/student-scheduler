@@ -10,8 +10,8 @@
 
 | Product              | Strengths                                                                                                                        | Weaknesses | Quality | Price | Platform    |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----- | ----------- |
-| CSU Chico's product  | can schedule                                                                                                                     | confusing  | 6       | NA    | web, mobile |
-| Starbucks' Teamworks | easily view schedule<br>Request change or swap shifts<br>Offer shifts for swap<br>Notifications when shifts offered or requested |            |         |       |             |
+| CSU Chico's product  | Can Schedule Courses                                                                                                                    | confusing  | 6       | NA    | web, mobile |
+| Starbucks' Teamworks | Easily view schedule<br>Request change or swap shifts<br>Offer shifts for swap<br>Notifications when shifts offered or requested |            |         |       |             |
 |                      |                                                                                                                                  |            |         |       |             |
 |                      |                                                                                                                                  |            |         |       |             |
 |                      |                                                                                                                                  |            |         |       |             |
