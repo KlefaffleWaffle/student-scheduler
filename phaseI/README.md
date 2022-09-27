@@ -1,6 +1,9 @@
-# Phase I: Analyzing Users, Competitors, and Initial Designs
+# Phase I: Analyzing Users, Competitors, and Initial Designs <br>
+## Student Scheulder UX Team <br>
+*Avery Pound* <br>
+*Austin Devine* <br>
+*Dominic London* <br>
 
-Introduction - with all UX team members’ names, team name, project title, and “Phase I: Analyzing Users, Competitors, and Initial Designs” as a header
 
 
 Methods - Describe methods you used to discover new insights, which explains the purpose of each 
