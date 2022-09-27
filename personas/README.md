@@ -17,7 +17,7 @@
 
 ### Computer Use: <br>
 Having grown up in the 80’s Janine was hesitant to adopt computer technology. <br>
-While she has a computer at home, she is by no means a super user and needs the software to be as learnable and memorable as possible. <br>
+While she has a computer at home, she is by no means a super user, <br> and needs the software to be as learnable and memorable as possible. <br>
 
 <p>She doesn't mind when software is slow, as she grew up with pretty slow computers. <br>
 	She does however expect programs to be accurate. <br>
@@ -30,6 +30,8 @@ She calls most messaging over the internet “email” regardless of platform. <
 <p> She needs a tool to help her see her schedule as well as well as her kid <br>
 Because she’s frequently on the go, she needs her schedule to be accessible on all devices including mobile <br>
 She may want the schedule to be editable by her kids <br> </p>
+
+---
 
 
 
