@@ -10,7 +10,7 @@ Background
 	She is fast, efficient, and steadfast in her routines. 
 	Her attitudes towards work were shaped by almost two decades of motherhood.
 	
-<p>She’s currently trying to earn her degree in business administration <br>
+<p text="center">She’s currently trying to earn her degree in business administration <br>
 	She’s 39 and her life mostly revolve around her two children Jack 15 and Jill 17 <br>
 	Jack plays club baseball and frequently has to travel. <br>
 	Jill is very involved with miscellaneous clubs and extracurricular activities.</p>
