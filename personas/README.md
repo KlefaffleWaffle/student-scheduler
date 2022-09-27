@@ -1,7 +1,7 @@
 # Personas
 ## Janine
 ![AdobeStock_216816710](https://user-images.githubusercontent.com/79026876/192636684-ca1f513e-c48a-491a-ad8d-095b1c7797dd.jpeg)
-
+<img src="https://user-images.githubusercontent.com/79026876/192636684-ca1f513e-c48a-491a-ad8d-095b1c7797dd.jpeg" "width=400"/>
 Background
 	Janine Jaxson is a single widowed mother who works as a waitress.
 	She works 34-38 hours per week at the local diner. 
