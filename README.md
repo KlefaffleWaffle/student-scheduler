@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Lead Tech Innovation Blockchainer
+* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Lead Tech Innovation Blockchainer Mechanical/Digital Engine Usability Experty
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
