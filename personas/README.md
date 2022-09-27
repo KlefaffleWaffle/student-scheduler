@@ -10,21 +10,21 @@ Background
 	She is fast, efficient, and steadfast in her routines. 
 	Her attitudes towards work were shaped by almost two decades of motherhood.
 	
-<p>She’s currently trying to earn her degree in business administration
-	She’s 39 and her life mostly revolve around her two children Jack 15 and Jill 17
-	Jack plays club baseball and frequently has to travel.
+<p>She’s currently trying to earn her degree in business administration <br>
+	She’s 39 and her life mostly revolve around her two children Jack 15 and Jill 17 <br>
+	Jack plays club baseball and frequently has to travel. <br>
 	Jill is very involved with miscellaneous clubs and extracurricular activities.</p>
 
 Computer Use:
 Having grown up in the 80’s Janine was hesitant to adopt computer technology.
 While she has a computer at home, she is by no means a super user and needs the software to be as learnable and memorable as possible.
 
-	She doesn't mind when software is slow, as she grew up with pretty slow computers. 
+<p>She doesn't mind when software is slow, as she grew up with pretty slow computers. 
 	She does however expect programs to be accurate. 
 	When programs crash, she blames technology’s decline in general. 
 	She firmly believes things have only gotten worse since Windows 95, and she’s right. 
 She will submit a complaint via email if she must, but oh God does she hate email.
-She calls most messaging over the internet “email” regardless of platform.  
+She calls most messaging over the internet “email” regardless of platform.  </p>
 
 Goals:
 She needs a tool to help her see her schedule as well as well as her kid
