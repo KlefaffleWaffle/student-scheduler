@@ -8,6 +8,12 @@
 
 ## Exploratory Competitive Analysis <br>
 
+| Product             | Strengths    | Weaknesses | Quality | Price | Platform    |
+| ------------------- | ------------ | ---------- | ------- | ----- | ----------- |
+| CSU Chico's product | can schedule | confusing  | 6       | NA    | web, mobile |
+|                     |              |            |         |       |             |
+
+
 ## Hueristic Evaluation of Chico State's Scheduler <br>
 ### Visibility of System Status | 4
 #### misc
