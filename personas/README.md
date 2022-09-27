@@ -9,12 +9,11 @@ Background
 	Her laps on the floor at work are more like a Daytona 500 car than a food server. 
 	She is fast, efficient, and steadfast in her routines. 
 	Her attitudes towards work were shaped by almost two decades of motherhood.
-
-
-	She’s currently trying to earn her degree in business administration
+	
+<p>She’s currently trying to earn her degree in business administration
 	She’s 39 and her life mostly revolve around her two children Jack 15 and Jill 17
 	Jack plays club baseball and frequently has to travel.
-	Jill is very involved with miscellaneous clubs and extracurricular activities.
+	Jill is very involved with miscellaneous clubs and extracurricular activities.</p>
 
 Computer Use:
 Having grown up in the 80’s Janine was hesitant to adopt computer technology.
