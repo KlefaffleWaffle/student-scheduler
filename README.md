@@ -35,10 +35,13 @@ Idea: I would like to create a more robust schedule builder by adding parameters
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
-Scheduling classes is more difficult than it should be. <br>
-This simple fact drives our vision as Student Scheduler™️ <br>
-The process should be as smooth and transparent as possible for students. <br>
+Scheduling college classes is more difficult than it should be. <br>
+This simple fact drives our vision for innovation as Student Scheduler™️ <br>
+The process should be smooth and transparent. <br>
 They should have a scheduler as dynamic as them.  <br>
+
+**Flexability** is key
+ * 
 
 **Executive Summary**
 
