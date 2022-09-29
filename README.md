@@ -40,8 +40,9 @@ This simple fact drives our vision for innovation as Student Scheduler™️ <br
 The process should be smooth and transparent. <br>
 They should have a scheduler as dynamic as them.  <br>
 
-**Flexability** is key
- * 
+**Flexability** is key <br>
+  * Ability to propose changes
+  * 
 
 **Executive Summary**
 
