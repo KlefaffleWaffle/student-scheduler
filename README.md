@@ -45,10 +45,16 @@ They should have a scheduler as dynamic as them.  <br>
   * Simultaneous access to schedule building and class offerings <br>
   * Give dynamic and helpful insights <br>
 
-**Prioritize Student Lives & Scheduling Concerns**
+**Prioritizing Student Schedules**
   * Studied specifications of competitors via heuristic analysis <br>
   * Adding extracurricular activities <br>
   * Provide solutions to time conflicts <br>
+
+**Sketches & Diagrams**
+  * Minimalist design to avoid visual noise <br>
+  * Learnable and intuitive navigation <br>
+
+**Personas & **
 
 **Executive Summary**
 
