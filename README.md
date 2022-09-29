@@ -43,7 +43,7 @@ They should have a scheduler as dynamic as them.  <br>
 **Flexability** is key <br>
   * Ability to propose changes and get feedback
   * Adding extracurricular activities
-  * Dynamic visibility into conflicts
+  * Dynamic visibility into time conflicts
 
 **Executive Summary**
 
