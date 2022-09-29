@@ -45,7 +45,9 @@ They should have a scheduler as dynamic as them.  <br>
   * Simultaneous access to schedule building and class offerings <br>
   * Dynamic and helpful insights on time conflicts <br>
 
+**Put the student first**
   * Adding extracurricular activities <br>
+  * 
 
 **Executive Summary**
 
