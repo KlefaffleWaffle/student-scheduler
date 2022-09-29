@@ -40,10 +40,10 @@ This simple fact drives our vision for innovation as Student Scheduler™️ <br
 The process should be smooth and transparent. <br>
 They should have a scheduler as dynamic as them.  <br>
 
-**Flexability** is key <br>
-  * Ability to propose changes and get feedback
-  * Adding extracurricular activities
-  * Dynamic visibility into time conflicts
+**Visibility** is key, as we learned from our competitive analysis <br>
+  * Ability to propose changes and get feedback <br>
+  * Adding extracurricular activities <br>
+  * Dynamic visibility into time conflicts <br>
 
 **Executive Summary**
 
