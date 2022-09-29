@@ -8,6 +8,8 @@
 
 ![](<Phase_I_Sketches/img002.jpg>)<br/>
 
+# Page Map
+
 ![](<Phase_I_Sketches/Untitled-1.jpg>)<br/>
 
 
@@ -16,9 +18,10 @@ Based on the “Page Map” pdf/ jpg, this guide will help you understand the fl
 
 # Primary Page
 Starting at the upper left part of the diagram is the starting page. After you create an account or log in, the program will take you to the primary screen,
+which is directly below the starting screen. 
 
 ![](Phase_I_Sketches/F2.jpg)<br/>
-which is directly below the starting screen. This is comparable to a home screen. It is the main page of interactivity.<br/>
+This is comparable to a home screen. It is the main page of interactivity.<br/>
 The primary screen shows your current calendar for the week and gives you 5 buttons you can press. They are: Create Event, Add Existing event,
 Edit Event, Add Class, and Remove Class. 
 
