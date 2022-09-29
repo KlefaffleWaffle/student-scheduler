@@ -42,8 +42,10 @@ They should have a scheduler as dynamic as them.  <br>
 
 **Visibility** is key, as we learned from our competitive analysis <br>
   * Ability to propose changes and get feedback <br>
+  * Simultaneous access to schedule building and class offerings <br>
+  * Dynamic and helpful insights on time conflicts <br>
+
   * Adding extracurricular activities <br>
-  * Dynamic visibility into time conflicts <br>
 
 **Executive Summary**
 
