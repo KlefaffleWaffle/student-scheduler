@@ -41,8 +41,9 @@ The process should be smooth and transparent. <br>
 They should have a scheduler as dynamic as them.  <br>
 
 **Flexability** is key <br>
-  * Ability to propose changes
-  * 
+  * Ability to propose changes and get feedback
+  * Adding extracurricular activities
+  * Dynamic visibility into conflicts
 
 **Executive Summary**
 
