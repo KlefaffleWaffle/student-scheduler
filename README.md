@@ -21,7 +21,7 @@ We are creating a better scheduler. <br>
 
 * **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Findings & Conclusions Author, Markdown Lead, Competitive Analysis, Hueristic Analysis
 * **[Dominic London](https://github.com/UsabilityEngineering/ux-portfolio-DustyDomino1774/)** - Competitive Analysis, Hueristic Analysis
-* **[Austin Devine](https://github.com/UsabilityEngineering/ux-portfolio-KlefaffleWaffle)** - Report & Summary Assistance, Primary Artist & Wireframer
+* **[Austin Devine](https://usabilityengineering.github.io/ux-portfolio-KlefaffleWaffle/)** - Report & Summary Assistance, Primary Artist & Wireframer
 
 # User-Centered Design Artifacts
  
