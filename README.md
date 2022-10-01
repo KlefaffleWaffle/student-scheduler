@@ -31,9 +31,8 @@ We are creating a better scheduler. <br>
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
-
-## Executive Summary 
-### [Full phase I report](phaseI/)
+## [Full phase I report](phaseI/)
+### Executive Summary 
 
 Scheduling college classes is more difficult than it should be. <br>
 This simple fact drives our vision for innovation as Student Scheduler™️ <br>
