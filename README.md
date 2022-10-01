@@ -35,6 +35,8 @@ We are creating a better scheduler. <br>
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
+## Executive Summary
+
 Scheduling college classes is more difficult than it should be. <br>
 This simple fact drives our vision for innovation as Student Scheduler™️ <br>
 Students should have a scheduler as dynamic as them.  <br>
@@ -60,13 +62,6 @@ Students should have a scheduler as dynamic as them.  <br>
     * Color coding <br>
     * On-screen calendar through most of the process <br>
     * **Undo function**
-
-**Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
 
 [Full phase I report](phaseI/)
 
