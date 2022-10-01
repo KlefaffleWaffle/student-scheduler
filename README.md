@@ -7,21 +7,21 @@ While there are road maps to success, breaking down courses needed each semester
  volunteer work, extra curricular activities, and personal life obligations.  <br> <br>
  This is where the schedule builder comes in.  <br> <br>
  A tool that allows us to more easily build a schedule that suits our needs.  <br>
+ <br>
+ 
  The issue is the lack of parameters to filter out what will and won't work.  <br>
  As it stands, you need to already have a good idea of the schedule  <br>
  you're trying to build in order for it to work as it requires you specify  <br>
- the classes you want and will prevent you from adding anything that overlaps.  <br>
+ the classes you want and will prevent you from adding anything that overlaps.  <br> 
+ <br>
 
-Idea: I would like to create a more robust schedule builder by adding parameters  <br>
- that account for our students desired number of units, times and days available,  <br>
- and allow the selection of overlapping classes. This can be done by taking into account  <br>
- student's Majors and minors, completed prerequisites, and needed general education courses to create, <br>
- not all schedules given a select number of classes, but all viable schedules given our student's goals and needs.  <br>
+We are creating a better scheduler. <br>
+ One that accounts for our students time. <br>
  </p>
 
 ## UX Team Members
 
-* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - my contributions :)
+* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Writing/Markdown, Competitive Analysis, Hueristic Analysis, Executive Summary
 * **[Dominic London](https://github.com/UsabilityEngineering/ux-portfolio-DustyDomino1774/)** - Dominic's primary contributions will be here eventually...
 * **[Austin Devine](https://github.com/UsabilityEngineering/ux-portfolio-KlefaffleWaffle)** - Overall Help, Primary Sketcher/Wireframer (Phase I)
 
