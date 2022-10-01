@@ -19,9 +19,9 @@ We are creating a better scheduler. <br>
 
 ## UX Team Members
 
-* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Findings & Conclusions Author, Markdown, Competitive Analysis, Hueristic Analysis
-* **[Dominic London](https://github.com/UsabilityEngineering/ux-portfolio-DustyDomino1774/)** - Dominic's primary contributions will be here eventually...
-* **[Austin Devine](https://github.com/UsabilityEngineering/ux-portfolio-KlefaffleWaffle)** - Overall Help, Primary Sketcher/Wireframer (Phase I)
+* **[Avery Pound](https://usabilityengineering.github.io/ux-portfolio-DJ-IRL/)** - Findings & Conclusions Author, Markdown Lead, Competitive Analysis, Hueristic Analysis
+* **[Dominic London](https://github.com/UsabilityEngineering/ux-portfolio-DustyDomino1774/)** - Competitive Analysis, Hueristic Analysis
+* **[Austin Devine](https://github.com/UsabilityEngineering/ux-portfolio-KlefaffleWaffle)** - Report & Summary Assistance, Primary Artist & Wireframer
 
 # User-Centered Design Artifacts
  
