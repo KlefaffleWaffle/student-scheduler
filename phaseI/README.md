@@ -104,6 +104,10 @@
 ---
 
 # Findings <br>
+
+![AdobeStock_469922509](https://user-images.githubusercontent.com/79026876/193378207-b1de0776-bcc9-48a7-8853-05aef75ae108.jpeg)
+<img src="https://user-images.githubusercontent.com/79026876/193378207-b1de0776-bcc9-48a7-8853-05aef75ae108.jpeg" width="368"/>
+
 ## Competitive Analysis Findings<br>
 
 From our close inspection of an array of similar applications we have found some features and concepts that may benefit us moving forward. <br>
