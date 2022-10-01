@@ -4,7 +4,11 @@
 *Austin Devine* <br>
 *Dominic London* <br>
 
+![AdobeStock_503606964](https://user-images.githubusercontent.com/79026876/193378027-05cbc062-d08a-41ef-acef-65f18c07fd07.jpeg)
+
+
 # Methods <br>
+
 
 ## Exploratory Competitive Analysis <br>
 
