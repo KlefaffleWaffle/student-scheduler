@@ -98,14 +98,56 @@
    as it interacts with newer and newer operating systems and browsers
 - No documentation that I can find
 
-
-
-
+---
 
 # Findings <br>
+## Competitive Analysis <br>
+
+From our close inspection of an array of similar applications we have found some features and concepts that may benefit us moving forward. <br>
+We looked at the Stabucks _Teamworks_ application. It is what they use to run schedules at almost all franchises of the massive chain. <br>
+While it is not directly designed to schedule students, it is a scheduling application and while it is used largely by a college-aged audience.<br>
+The average age of a Starbucks barista is 24. <br>
+
+We found that the ability to 'swap' scheduled events was a useful feature, and potentially one students could take advantage of. <br>
+There is a simple waitlist system in place at our school, California State University Chico. <br>
+But a more complex system wherein students could add and drop classes conditionally, with dynamic parameters, could benefit students. <br>
+
+The ability to request time off in _Teamworks_ is not so dissimilar to our proposed functionality<br>
+of being able to add extra-curricular events to your school scheduling application. This way you <br>
+will get immediate feedback on time conflicts. We want to avoid giving our users any unneunnecessary headaches. <br>
+
+## Heuristics
+
+By studying closely the process by which we ourselves schedule and navigate classes, <br>
+we came to some harsh realities about the user experience. <br>
+
+We found that a majority of the time the user is kept in the dark about their prospective schedule, <br>
+and has a very limited view of the system they are interacting with. <br> 
+The clunky site we are used to offers no suggestions when things go arwy, <br>
+and you must walk back your steps very carefully if you encounter an error. <br>
+
+The student must keep a working calendar in their head, <br>
+and keep track of what classes are offered when, <br>
+because the scheduling application helps them with none of this. <br>
+The extremely limited view at any given time tells the student very little.<br>
+
+
+## Personas and Scenarios
+
+
+## Sketches and Diagrams
 
 
 # Conclusions & Recommendations  <br>
 
 
 # Caveats <br>
+
+In our competitive analysis there is a glaringly empty column, the prices. It is difficult to get an idea of what <br>
+schools or companies pay for these services. We do know that some of them are paid for in a yearly flat rate, <br>
+and some are paid-per-student using the service. Starbucks' _Teamworks_ is even harder to pin down a price on, <br>
+as I believe it is developed 'in-house.' 
+
+Given that we have such limited experience with other school's scheduling systems we had to go with the obvious choice. <br>
+We have the most time spent and most intimate knowledge of the Chico State scheduling system, so it seems like a good choice. <br>
+We recognize that this could introduce bias into our analysis as we have to use the service 'for real,' and cannot be neutral. <br>
