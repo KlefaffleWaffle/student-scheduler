@@ -101,7 +101,7 @@
 ---
 
 # Findings <br>
-## Competitive Analysis <br>
+## Competitive Analysis Findings<br>
 
 From our close inspection of an array of similar applications we have found some features and concepts that may benefit us moving forward. <br>
 We looked at the Stabucks _Teamworks_ application. It is what they use to run schedules at almost all franchises of the massive chain. <br>
@@ -116,7 +116,7 @@ The ability to request time off in _Teamworks_ is not so dissimilar to our propo
 of being able to add extra-curricular events to your school scheduling application. This way you <br>
 will get immediate feedback on time conflicts. We want to avoid giving our users any unneunnecessary headaches. <br>
 
-## Heuristics
+## Heuristic Findings
 
 By studying closely the process by which we ourselves schedule and navigate classes, <br>
 we came to some harsh realities about the user experience. <br>
@@ -132,14 +132,41 @@ because the scheduling application helps them with none of this. <br>
 The extremely limited view at any given time tells the student very little.<br>
 
 
-## Personas and Scenarios
+## Personas and Scenarios Findings
 
+After precisely narrowing down our user base, and discussing extensively about how they live, <br>
+we constructed detailed scenarios for our well-imagined users. <br>
+We found that a very common use case is students who must keep track of their extra-curricular activities <br>
+on their own while navigating the system. This is _normal_ but does not have to be. <br>
+We found that what our users _really_ care about, is a scheduling tool <br>
+which takes theie whole life into account and not just a few classes. <br>
 
-## Sketches and Diagrams
+## Sketches and Diagrams Findings
 
+Our resident artist, Austin Devine, had a lot to teach us about design. <br>
+The evolution of our visual representations can be seen in our "Sketches and Daigrams" page. <br>
+By not just imagining, but seeing with our own eyes a layout and potential look and feel for the page, <br>
+we learned a lot about usability of our product. <br>
+
+We found that it is really easy to clutter a page. We care a lot about transparency and <br>
+giving the user the most power we possibly can. This approach, however, can lead <br>
+to the page becoming completely filled with not-totally-necessary information. <br>
+This creates a lot of _visual noise_ which makes it even harder to complete the task at hand. <br>
 
 # Conclusions & Recommendations  <br>
+Information is king. <br>
+We want to give the user power. We want them to feel like they see all their choices. <br>
+Sometimes scheduling classes can impart "fear of missing out" as the student thinks <br>
+they may be missing some great combination of classes that would be perfect for them. <br> 
 
+We want to make things easier for students. <br>
+By allowing our users to add events as they please, and block off time dynamically, <br>
+we make the process of finding classes at times that work much easier. <br>
+
+We need to completely get rid of the current system wherein a user cannot have <br>
+both the class catelogue/schedule open along with their current scheduling tool. <br>
+This is an obvious oversight as it is crucial when dealing with time conflicts, errors, <br>
+or any other issues that may arise. <br> 
 
 # Caveats <br>
 
