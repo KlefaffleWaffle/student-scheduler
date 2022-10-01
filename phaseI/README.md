@@ -4,7 +4,7 @@
 *Austin Devine* <br>
 *Dominic London* <br>
 
-<img src="https://user-images.githubusercontent.com/79026876/193378027-05cbc062-d08a-41ef-acef-65f18c07fd07.jpeg" width="400"/>
+<img src="https://user-images.githubusercontent.com/79026876/193378027-05cbc062-d08a-41ef-acef-65f18c07fd07.jpeg" width="400"/><br>
 
 # Methods <br>
 
@@ -21,6 +21,9 @@
 
 
 ## Hueristic Evaluation of Chico State's Scheduler <br>
+
+<img src="https://user-images.githubusercontent.com/79026876/193378308-c5b9aa1b-909f-4e28-b71b-8ac2b36f4287.jpeg" width="400"/><br>
+
 ### Visibility of System Status | 4
 #### misc
 - calling it "Scheduler Builder (Scheduler)" is redundant 
