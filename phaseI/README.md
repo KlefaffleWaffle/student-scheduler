@@ -183,6 +183,10 @@ both the class catelogue/schedule open along with their current scheduling tool.
 This is an obvious oversight as it is crucial when dealing with time conflicts, errors, <br>
 or any other issues that may arise. <br> 
 
+We recommend that our software engineering team focus on making information available to the user. <br>
+We can worry about making things _pretty_ later. For now, we want to give our users the raw data. <br> 
+Refer to our sketches and diagrams for any visual direction we can provide at this time. <br>
+
 # Caveats <br>
 
 In our competitive analysis there is a glaringly empty column, the prices. It is difficult to get an idea of what <br>
