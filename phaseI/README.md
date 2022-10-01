@@ -4,7 +4,7 @@
 *Austin Devine* <br>
 *Dominic London* <br>
 
-<img src="https://user-images.githubusercontent.com/79026876/193378027-05cbc062-d08a-41ef-acef-65f18c07fd07.jpeg" width="368"/>
+<img src="https://user-images.githubusercontent.com/79026876/193378027-05cbc062-d08a-41ef-acef-65f18c07fd07.jpeg" width="400"/>
 
 # Methods <br>
 
@@ -105,8 +105,7 @@
 
 # Findings <br>
 
-![AdobeStock_469922509](https://user-images.githubusercontent.com/79026876/193378207-b1de0776-bcc9-48a7-8853-05aef75ae108.jpeg)
-<img src="https://user-images.githubusercontent.com/79026876/193378207-b1de0776-bcc9-48a7-8853-05aef75ae108.jpeg" width="368"/>
+<img src="https://user-images.githubusercontent.com/79026876/193378207-b1de0776-bcc9-48a7-8853-05aef75ae108.jpeg" width="400"/>
 
 ## Competitive Analysis Findings<br>
 
