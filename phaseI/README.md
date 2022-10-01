@@ -166,6 +166,9 @@ into the hands of students. They should be able to see what is relevant when it 
 and not have to search all over the school's website for information we could easily provide! <br>
 
 # Conclusions & Recommendations  <br>
+
+<img src="https://user-images.githubusercontent.com/79026876/193378451-5f7d7ba3-ca71-4d36-99ba-b7a661d7514d.jpeg" width="420"/> <br>
+
 Information is king. <br>
 We want to give the user power. We want them to feel like they see all their choices. <br>
 Sometimes scheduling classes can impart "fear of missing out" as the student thinks <br>
