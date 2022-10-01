@@ -51,7 +51,7 @@ They make lots of correct assumptions when using new software.<br>
 If they get stuck when using a program, they are most likely to do a Google search. <br>
 They expect to solve any issues in under a few minutes, otherwise they expect to be able to submit an email or support ticket. <br> </p>
 
- ### Goals <br>
+### Goals <br>
 <p> schedule around a dynamic and busy calendar <br>
 spend as little time as possible scheduling <br>
 quickly see options that fit within their schedule <br>
