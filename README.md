@@ -7,8 +7,6 @@ While there are road maps to success, breaking down courses needed each semester
  volunteer work, extra curricular activities, and personal life obligations.  <br> <br>
  This is where the schedule builder comes in.  <br> <br>
  A tool that allows us to more easily build a schedule that suits our needs.  <br>
- <br>
- 
  The issue is the lack of parameters to filter out what will and won't work.  <br>
  As it stands, you need to already have a good idea of the schedule  <br>
  you're trying to build in order for it to work as it requires you specify  <br>
