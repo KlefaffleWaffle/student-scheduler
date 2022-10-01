@@ -37,8 +37,7 @@ We are creating a better scheduler. <br>
 
 Scheduling college classes is more difficult than it should be. <br>
 This simple fact drives our vision for innovation as Student Scheduler™️ <br>
-The process should be smooth and transparent. <br>
-They should have a scheduler as dynamic as them.  <br>
+Students should have a scheduler as dynamic as them.  <br>
 
 **Visibility** is key, as we learned from our competitive analysis <br>
   * Ability to propose changes and get feedback <br>
@@ -52,9 +51,15 @@ They should have a scheduler as dynamic as them.  <br>
 
 **Sketches & Diagrams**
   * Minimalist design to avoid visual noise <br>
-  * Learnable and intuitive navigation <br>
+  * Learnable, intuitive, and informative navigation <br>
+  * Transparency in the process <br>
 
-**Personas & **
+**Who is Using Our Product?**
+  * The personas and scenarios provided detail the lives of our users <br>
+  * _Reduce stress_ whenever possible <br>
+    * Color coding <br>
+    * On-screen calendar through most of the process <br>
+    * **Undo function**
 
 **Executive Summary**
 
