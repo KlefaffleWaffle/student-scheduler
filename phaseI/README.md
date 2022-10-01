@@ -152,6 +152,9 @@ We found that it is really easy to clutter a page. We care a lot about transpare
 giving the user the most power we possibly can. This approach, however, can lead <br>
 to the page becoming completely filled with not-totally-necessary information. <br>
 This creates a lot of _visual noise_ which makes it even harder to complete the task at hand. <br>
+With elegant design and dynamic web features, we can bring the power of computation <br>
+into the hands of students. They should be able to see what is relevant when it is relevant, <br>
+and not have to search all over the school's website for information we could easily provide! <br>
 
 # Conclusions & Recommendations  <br>
 Information is king. <br>
