@@ -1,1 +1,1 @@
-<h1> Student Scheduler Wireframe </h1>
+<h1> Student Scheduler Wireframes </h1>
