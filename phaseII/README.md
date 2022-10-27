@@ -8,7 +8,9 @@
 
 
 <h3>Informal Feedback</h3>
-
+<p>
+    While we, the design team for Student Scheduler, have been working on making 
+</p>
 
 <h3>Cognative Walkthroughs</h3>
 
