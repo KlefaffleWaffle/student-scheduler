@@ -1,9 +1,23 @@
 # Phase II: Refining interaction and designing wireframes
 
+
 <h2>Introduction</h2>
+
+
 <h2>Methods</h2>
+
+
+<h3>Informal Feedback</h3>
+
+
+<h3>Cognative Walkthroughs</h3>
+
+
 <h2>Findings</h2>
+
+
 <h2>Conclusion:</h2>
+
 
     “People ignore design that ignores people.”
     — Frank Chimero, Designer
