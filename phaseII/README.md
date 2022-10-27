@@ -1,6 +1,8 @@
 # Phase II: Refining interaction and designing wireframes
 
-
+<h2>Introduction</h2>
+<h2>Methods</h2>
+<h2>Findings</h2>
 <h2>Conclusion:</h2>
 
 This quote from renowned designer Frank Chimero strikes at the heart of our lessons learned during Phase 2. Our designs were practical, within the boundaries of reason, and could accomplish the task that we had set out to accomplish. Yet, when tested by real people who were not involved in the design process, our designs failed to aid with even the most basic of tasks. If a test user did successfully manage to schedule an event or a class, there was no indication that they had done so. Even though on paper our application could get the job done, the users’ perspective is all that really exists after release.
@@ -15,3 +17,5 @@ Plans for Phase 3:
   - Collaborate more closely with the software team 
   - Iterate until people wholly unfamiliar with the application can navigate it with ease 
   - Continue to research and apply strategies to make for better user experiences
+
+<h2>Caveats</h2>
