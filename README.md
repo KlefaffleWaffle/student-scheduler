@@ -64,8 +64,8 @@ Students should have a scheduler as dynamic as them.  <br>
 
 **Executive Summary**<br>
 
-	<h2>“People ignore design that ignores people.”
-	— Frank Chimero, Designer </h2>
+	“People ignore design that ignores people.”
+	— Frank Chimero, Designer
 
 <p>This quote from renowned designer Frank Chimero strikes at the heart of our lessons learned during Phase 2. Our designs were practical, within the boundaries of reason, and could accomplish the task that we had set out to accomplish. Yet, when tested by real people who were not involved in the design process, our designs failed to aid with even the most basic of tasks. If a test user did successfully manage to schedule an event or a class, there was no indication that they had done so. Even though on paper our application could get the job done, the users’ perspective is all that really exists after release. </p>
 
