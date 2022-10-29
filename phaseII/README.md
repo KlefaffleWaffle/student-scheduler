@@ -1,4 +1,18 @@
 # Phase II: Refining interaction and designing wireframes
+
+
+<h2>Introduction</h2>
+
+
+<h2>Methods</h2>
+
+
+<h3>Informal Feedback</h3>
+<p>
+    While we, the design team for Student Scheduler, have been working on making 
+</p>
+
+<h3>Cognative Walkthroughs</h3>
 Persona: Janine
 A mother looking to get her degree while juggling her schedule with her kids
 
@@ -7,31 +21,23 @@ Janine must make sure she gets her usual credit amount to make sure she stays on
 track for her graduation but must alot time for her kids’ needs as well as allocating time
 to commute to campus to avoid being late to class consistently
 
-<h2>Introduction</h2>
 Takeaway: 
 
 No major problems with the wireframe and the walkthrough were able to mostly complete the goal.
 
-<h2>Methods</h2>
 Persona: Sophia
 A mother looking to get her degree while juggling her schedule with her kids
 
 Scenario:
 maximize efficiency when scheduling end-of-career semesters
 
-<h3>Informal Feedback</h3>
-<p>
-    While we, the design team for Student Scheduler, have been working on making 
-</p>
 Takeaway: 
 
-<h3>Cognative Walkthroughs</h3>
 Felt that the persona wasn’t able to reach the goal due to the time interval not being clear and unsure of the add event/extracurricular page.
 
 Persona: Alex
 A mother looking to get her degree while juggling her schedule with her kids
 
-<h2>Findings</h2>
 Scenario:
 schedule around a dynamic and busy calendar
 spend as little time as possible scheduling
@@ -40,12 +46,17 @@ categorize conflicts with personal vs school vs club schedule
 
 Takeaway: 
 
+Felt that the time increments weren’t varied enough for specific time events, wasn’t sure about confirmation feedback and time selection.
+
+<h2>Findings</h2>
+
+
 <h2>Conclusion:</h2>
 
 
     “People ignore design that ignores people.”
     — Frank Chimero, Designer
-
+  
 This quote from renowned designer Frank Chimero strikes at the heart of our lessons learned during Phase 2. Our designs were practical, within the boundaries of reason, and could accomplish the task that we had set out to accomplish. Yet, when tested by real people who were not involved in the design process, our designs failed to aid with even the most basic of tasks. If a test user did successfully manage to schedule an event or a class, there was no indication that they had done so. Even though on paper our application could get the job done, the users’ perspective is all that really exists after release.
 
 We will not be there behind every user, ready to guide them through the process. The interface should guide them to their desired destination. We on the team can never unlearn all the intricacies of our system that we designed, so getting outside user feedback like this before releasing the product is critical.
@@ -60,4 +71,3 @@ Plans for Phase 3:
   - Continue to research and apply strategies to make for better user experiences
 
 <h2>Caveats</h2>
-Felt that the time increments weren’t varied enough for specific time events, wasn’t sure about confirmation feedback and time selection.
