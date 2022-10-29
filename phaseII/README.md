@@ -13,6 +13,7 @@
 </p>
 
 <h3>Cognative Walkthroughs</h3>
+
 #### Walkthrough 1
 Persona: Janine
 A mother looking to get her degree while juggling her schedule with her kids
