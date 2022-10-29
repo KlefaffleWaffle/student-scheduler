@@ -13,7 +13,7 @@
 </p>
 
 <h3>Cognative Walkthroughs</h3>
-####Walkthrough 1
+#### Walkthrough 1
 Persona: Janine
 A mother looking to get her degree while juggling her schedule with her kids
 
@@ -25,7 +25,7 @@ to commute to campus to avoid being late to class consistently
 Results:
 No major problems with the wireframe and the walkthrough were able to mostly complete the goal.
 
-####Walkthrough 2
+#### Walkthrough 2
 Persona: Sophia
 A mother looking to get her degree while juggling her schedule with her kids
 
@@ -35,7 +35,7 @@ maximize efficiency when scheduling end-of-career semesters
 Reults:
 Felt that the persona wasn’t able to reach the goal due to the time interval not being clear and unsure of the add event/extracurricular page.
 
-####Walkthrough 3
+#### Walkthrough 3
 Persona: Alex
 A mother looking to get her degree while juggling her schedule with her kids
 
