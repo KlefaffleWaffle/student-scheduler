@@ -73,7 +73,7 @@ Our users found our interface cold and challenging. Scheduling classes is stress
 
 Plans for Phase 3: 
   - Continue to share our designs with testers 
-  - Get more copies into our designs 
+  - More copy in our designs 
   - Collaborate more closely with the software team 
   - Iterate until people wholly unfamiliar with the application can navigate it with ease 
   - Continue to research and apply strategies to make for better user experiences
