@@ -13,6 +13,7 @@
 </p>
 
 <h3>Cognative Walkthroughs</h3>
+####Walkthrough 1
 Persona: Janine
 A mother looking to get her degree while juggling her schedule with her kids
 
@@ -21,18 +22,20 @@ Janine must make sure she gets her usual credit amount to make sure she stays on
 track for her graduation but must alot time for her kids’ needs as well as allocating time
 to commute to campus to avoid being late to class consistently
 
-Result:
+Results:
 No major problems with the wireframe and the walkthrough were able to mostly complete the goal.
 
+####Walkthrough 2
 Persona: Sophia
 A mother looking to get her degree while juggling her schedule with her kids
 
 Scenario:
 maximize efficiency when scheduling end-of-career semesters
 
-Reult:
+Reults:
 Felt that the persona wasn’t able to reach the goal due to the time interval not being clear and unsure of the add event/extracurricular page.
 
+####Walkthrough 3
 Persona: Alex
 A mother looking to get her degree while juggling her schedule with her kids
 
@@ -42,7 +45,7 @@ spend as little time as possible scheduling
 quickly see options that fit within their schedule
 categorize conflicts with personal vs school vs club schedule
 
-Result:
+Results:
 Felt that the time increments weren’t varied enough for specific time events, wasn’t sure about confirmation feedback and time selection.
 
 <h2>Findings</h2>
