@@ -95,7 +95,7 @@ Plans for Phase 3:
 
 <h2>Caveats</h2>
 <p>While we were able to gain a lot of useful information from our walkthroughs and other design evaluations, there were a few limitations to our findings.
-One caveat, due to a mishap on our end, the users were only able to see one artboard. However, while users may only have been able to see the “Add Event” artboard, and the process for some of our users was significantly less efficient, many of our users were still able to complete their goal.<br><br>
+One caveat, due to a mishap on our end, the users were only able to see one artboard. However, while users may only have been able to see the “Add Event” artboard, and therefore the process for some of our users was significantly less efficient, many of our users were still able to complete their goal.<br><br>
 With colleagues who were able to see the full art board, they were unsure of what screens logically followed. It was not always clear what artboard should appear after a button press. Design could have helped this, but this is also just a limitation of wireframes without any linking between actions and pages. <br>
 We found ourselves limited on time with software engineers. They are in high demand right now! We have been able to meet with our lead visionary, Dylan Hall, but getting the principle engineer's time and attention can be tough!
 </p>
