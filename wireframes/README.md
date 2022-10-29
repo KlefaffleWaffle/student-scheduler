@@ -15,11 +15,11 @@ Below, the add class page illustrates our primary feature, adding classes. It's 
 ![Add Class](https://user-images.githubusercontent.com/79026876/198814678-aef6fb62-3a1b-4124-9f98-a5444a3fd9c1.png)
 
 
-Adding extra curricular activities is critical to our marketing strategy. We are the cool company that lets students scheduler classes around their own lives. We say "live a little." Here at the add event page (shown below) a student can add something like their morning jog, or band practice, to their school schedule. This way they can compare times and make the best schedule for themselves easily. 
+Adding extra curricular activities is critical to our marketing strategy. We are the cool company that lets students schedule classes around their own lives. We say "live a little." Here at the add event page (shown below) a student can add something like their morning jog, or band practice, to their school schedule. This way they can compare times and make the best schedule for themselves easily. 
 ![Add Extra-Curricular Event](https://user-images.githubusercontent.com/79026876/198814681-dab2f4a1-7d4e-4d17-abda-89d6b4eb295e.png)
 
 
-Below, another view of adding classes. This is what a class might look like at a quick glance. 
+Below is a view of what deleting a class may look like. By hovering over the class button on the right, the corresponding time block in the calendar will be highlighted. Clicking the button will lead to the next image in this document. This is what deleting a class might look like at a quick glance. 
 
 ![Add Class – 1](https://user-images.githubusercontent.com/79026876/198814684-2e188d76-c4d4-4596-be18-b031de115a3a.png)
 
@@ -29,7 +29,7 @@ Confirmation notification that a class was removed from your schedule.
 ![Add Class – 2](https://user-images.githubusercontent.com/79026876/198814687-2ea9e90a-c160-4f03-9cbf-63b518284530.png)
 
 
-This view allows one to browse events they've entered, and see their schedule laid out in days of the week on the left. 
+This view allows one to browse saved events they've already entered, and also to see their schedule laid out in days of the week on the left. 
 
 ![Schedule View - With Existing Events](https://user-images.githubusercontent.com/79026876/198814685-69b4d5f4-4876-4677-b626-b14ed55cf590.png)
 
