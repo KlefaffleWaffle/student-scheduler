@@ -79,3 +79,9 @@ Plans for Phase 3:
   - Continue to research and apply strategies to make for better user experiences
 
 <h2>Caveats</h2>
+<p>	While we were able to gain a lot of useful information from our walkthroughs and other tests, there were a few limitations to our tests.
+	One caveat, due to a mishap on our end, the users were only able to see one artboard. However, while users may only have been able to see the “Add Event” artboard, and the process for some of our users was significantly less efficient, many of our users were still able to complete their goal.<br><br>
+    
+	It is hard for users to get feedback based on their actions
+	Users theoretically may have went to the wrong page in informal walkthrough/ assumed the page didn’t exist.
+</p>
