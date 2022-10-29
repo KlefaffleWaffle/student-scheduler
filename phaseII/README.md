@@ -2,7 +2,10 @@
 
 
 <h2>Introduction</h2>
-
+<p>We at the usability and design research team for Student Scheduler had a productive Phase II. We took our product to the next level of fidelity by incorporating wireframes and cognitive walkthroughs into our methods for finding good design. Translating the concepts we developed in Phase I to sketches then to wireframes gave us the tangible visual feedback we needed to envision a focused and well-oiled final product. <br><br>
+We performed cognitive walkthroughs, wherein we put ourselves in the shoes of our personas we constructed in Phase I. Our colleagues also performed these walkthroughs. With their feedback we learned what our application design was lacking, and where it succeeded. Our findings lead us to several redesigns, every iteration of which we gave more user feedback and made any options possible clearer. <br><br>
+Through close collaboration with our software engineering team, we found synergy between our design ideas and their engineering.  The website interface is coming along, as is the database backend. All of us on the design team do at least some programming, so when we converse we are able to speak the same language. 
+</p>
 
 <h2>Methods</h2>
 
