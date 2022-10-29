@@ -57,7 +57,22 @@ Results:
 Felt that the time increments weren’t varied enough for specific time events, wasn’t sure about confirmation feedback and time selection.
 
 <h2>Findings</h2>
-The findings in our cognitive wakthrough weren't as reliable as we would have liked due to an error in the linking of the wireframes but the main findings were as follow: Allow for smaller time increments, make the time slide bar more clear as to how it functions, and to added clear feedback for when an actions is successful.
+The findings in our cognitive wakthrough weren't as reliable as we would have liked due to an error in the linking of the wireframes, but the main findings were as follows:<br>
+<ul>
+<li>
+Allow for smaller time increments, make the time slide bar more clear as to how it functions, and to added clear feedback for when time of an event has changed.
+</li>
+<li>
+Clarify distinction between "event" and "class" as some actions seem ambiguous as to which they pertain 
+</li>
+<li>
+Could narrow possible event times down to school hours
+</li>
+<li>
+Make the process of adding an event and creating a new event one in the same, having both can be confusing to parse.
+</li>
+</ul>
+
 
 <h2>Conclusion:</h2>
 
