@@ -7,17 +7,16 @@ Avery Pound
 Dominic London
 
 <h3>Introduction:</h3>
-<p>The Student Scheduler User Engineering team, consisting of Austin Devine, Avery Pound, and Dominic London, has been working to gain insight into the user experience regarding our new product: Student Scheduler. This website, and eventually app, will allow users to schedule their extra-curricular activities around their classes and vice versa. Its main draws are that it has additional features compared to similar programs, while also being easier to use. In our latest tests, we gave potential users a chance to try our software. This provided great insight into our potential user base as we learned not only how our users will use the software, but also what they thought. While our tests provided great insight, we learned that our design is not ready for release at this time.<p>
+<p>The Student Scheduler User Experience (UX) team, consisting of Austin Devine, Avery Pound, and Dominic London, has been conducting research to gain insight into the user experience with our new product: Student Scheduler. This website and app allow users to easily schedule their extra-curricular activities around their classes. With additional features and a user-friendly design, Student Scheduler aims to provide a better experience than similar programs. In our latest tests, we invited potential users to try our software and provided us with valuable feedback on the usability and functionality of the product. However, we have identified areas for improvement and will continue to refine the design before release.<p>
 <br>
 Methods:
-<p>Our study consisted of analyzing five potential users using our software while learning about their feelings regarding not only our software, but the software of our competitors. We started off with a questionnaire asking users a variety of questions about the software and tools they use to schedule their classes and extracurricular activities. These questions included, 
-“Do you schedule your classes on your own; unassisted? (This includes parents, advisors, or friends),” 
-“What programs have you used to schedule your classes? (Have you used more than one school’s program?) List all tools you use or have used when scheduling your classes, including pen and paper or other software,” 
-“Are there any features you can recall from memory that you find especially useful when trying to find classes to schedule, and then scheduling said classes?” 
-“How would you rate your experiences with other programs you have used on a scale of 1-10 in the following categories?”
-Finding Classes
-Scheduling Classes
-Scheduling Classes around extracurricular activities.</p>
+<p>Our study consisted of analyzing five potential users using our software while learning about their feelings regarding not only our software, but the software of our competitors. We started off with a questionnaire asking users a variety of questions about the software and tools they use to schedule their classes and extracurricular activities. These questions included:</p>
+<ul>
+<li>"Do you schedule your classes on your own, unassisted? (This includes parents, advisors, or friends.)"</li>
+<li>"What programs have you used to schedule your classes? (Have you used more than one school's program?) Please list all tools you use or have used when scheduling your classes, including pen and paper or other software."</li>
+<li>"Are there any features you can recall from memory that you find especially useful when trying to find classes to schedule, and then scheduling said classes?"</li>
+<li>"How would you rate your experiences with other programs you have used on a scale of 1-10 in the following categories: Finding Classes, Scheduling Classes, Scheduling Classes around extracurricular activities?"</li>
+</ul></p>
 
 <p>At this point we asked our participants to complete a series of tasks using a prototype created in Adobe XD. Before having the participants complete the task, we explained that we expect a participant that they represent will have used the program before, and there are some pre-existing user generated items that they will not have to create. We then proceeded to administer the tasks. These tasks were as follows:
 “We want you to login and create a new recurring event, one hour of going to the gym.”
