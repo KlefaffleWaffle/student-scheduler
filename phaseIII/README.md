@@ -9,7 +9,10 @@ Dominic London
 <h3>Introduction:</h3>
 <p>The Student Scheduler User Experience (UX) team, consisting of Austin Devine, Avery Pound, and Dominic London, has been conducting research to gain insight into the user experience with our new product: Student Scheduler. This website and app allow users to easily schedule their extra-curricular activities around their classes. With additional features and a user-friendly design, Student Scheduler aims to provide a better experience than similar programs. In our latest tests, we invited potential users to try our software and provided us with valuable feedback on the usability and functionality of the product. However, we have identified areas for improvement and will continue to refine the design before release.<p>
 <br>
-Methods:
+<h2>Methods:</h2>
+<p>A "method" in the context of user experience testing refers to the specific approach or technique used to collect data and evaluate the user experience with a product or service. There are many different methods that can be used for user experience testing, and the appropriate method will depend on the specific goals and objectives of the study, as well as the target audience and available resources.
+</p>
+  
 <p>Our study consisted of analyzing five potential users using our software while learning about their feelings regarding not only our software, but the software of our competitors. We started off with a questionnaire asking users a variety of questions about the software and tools they use to schedule their classes and extracurricular activities. These questions included:</p>
 <ul>
 <li>"Do you schedule your classes on your own, unassisted? (This includes parents, advisors, or friends.)"</li>
@@ -18,16 +21,18 @@ Methods:
 <li>"How would you rate your experiences with other programs you have used on a scale of 1-10 in the following categories: Finding Classes, Scheduling Classes, Scheduling Classes around extracurricular activities?"</li>
 </ul></p>
 
-<p>At this point we asked our participants to complete a series of tasks using a prototype created in Adobe XD. Before having the participants complete the task, we explained that we expect a participant that they represent will have used the program before, and there are some pre-existing user generated items that they will not have to create. We then proceeded to administer the tasks. These tasks were as follows:
-“We want you to login and create a new recurring event, one hour of going to the gym.”
-“Assuming you have used this software before and already added an extra curricular event to your profile, we want you to add the already existing event to your schedule. In this case, add ‘Milo’s Piano Lesson.’ This task is NOT dependent on your success on Task 1”
-“We want you to delete one of the classes from your schedule. The class you have already signed up for is CSCI 511.”
-As the participants were completing the tasks we took careful notes about what they said, as well as how they interacted with our program. What they clicked on, where they moved the mouse, what they said they were looking for. After the participants had finished their attempt, we asked the participants to answer a few follow up questions. These were:
-“Were there any features you expected that were not present or otherwise hard to find?”
-“How would you rate your experiences with our program on a scale of 1-10 in the following categories?”
-Finding buttons you were looking for?
-Scheduling classes and events?
-Do you have any other thoughts or comments?
+<p>After asking the above questions, we asked our participants to complete a series of tasks using a prototype created in Adobe XD. Before having the participants complete the task, we explained that we expect they will have used the program before and there are some pre-existing user-generated items that they will not have to create. We then proceeded to administer the tasks. These tasks were as follows:</p>
+<ul>
+<li>"We want you to login and create a new recurring event, one hour of going to the gym."</li>
+<li>"Assuming you have used this software before and already added an extra-curricular event to your profile, we want you to add the already existing event to your schedule. In this case, add 'Milo's Piano Lesson.' This task is NOT dependent on your success on Task 1."</li>
+<li>"We want you to delete one of the classes from your schedule. The class you have already signed up for is CSCI 511."</li>
+</ul>
+<p>As the participants completed the tasks, we took careful notes about what they said and how they interacted with our program. We recorded what they clicked on, where they moved the mouse, and what they said they were looking for. After the participants finished their attempts, we asked them to answer a few follow-up questions, including:</p>
+<ul>
+<li>"Were there any features you expected that were not present or otherwise hard to find?"</li>
+<li>"How would you rate your experiences with our program on a scale of 1-10 in the following categories: Finding buttons you were looking for, Scheduling classes and events?"</li>
+<li>"Do you have any other thoughts or comments?"</li>
+</ul>
 </p>
 
 
