@@ -28,7 +28,7 @@ We are creating a better scheduler. <br>
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 ## [Full phase I report](phaseI/)
