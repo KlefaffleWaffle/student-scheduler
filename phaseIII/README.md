@@ -76,7 +76,7 @@ _"We want you to delete one of the classes from your schedule. The class you hav
 <p>Almost all participants in our study completed task 3 quickly and easily, which indicates that the language and purpose of the buttons used in the task were clear and easily understood. This is an important aspect of design, as buttons with unclear or uncertain purposes can cause confusion and frustration for users. By ensuring that the buttons in our application are clearly labeled and easy to understand, we were able to make the task more learnable and user-friendly. Overall, this test showed us that our design decisions were successful in making the task easy to navigate and complete. 
 </p>
 
-<h3>Post-Tasks Questionairre</h3>>
+<h3>Post-Tasks Questionairre</h3>
 <p>After the tasks, we asked some follow-up questions. The first question asked whether there were any features they expected but were not present. Most participants said no, but one mentioned the need for a way to control the time when creating an event, and another mentioned that the profile button should be clickable. Although these features were not necessary for completing the tasks, the feedback indicates that some participants had expectations or assumptions about the functionality of the software. For example, the participant who thought the profile button should be clickable may have expected it to show a list of pre-existing events. In future testing, we will consider including a page that demonstrates the functionality of the profile button to avoid any confusion or misunderstandings.
 </p>
 
