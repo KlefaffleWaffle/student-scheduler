@@ -88,14 +88,6 @@ _"We want you to delete one of the classes from your schedule. The class you hav
 <p>Most of our participants had positive feedback about our software. One participant mentioned that they appreciated the ability to see the calendar at all times, while another suggested that the boxes on the calendar should include more information. In terms of adding events to the calendar, we observed that some participants were confused about how to complete the task. Most understood that they needed to click on the event, but did not see a confirmation of the action. After a moment or two, many realized that they needed to click on the "+" button to complete the task. However, one participant noted that they did not feel that they had successfully completed the task, even though they had. This may have been because they did not see their calendar update, which was a limitation of our prototype. Despite this, their expectation of what would happen was correct. Overall, we received valuable feedback from our participants and will take their comments into consideration as we continue to improve our software.
 </p>
 
--- NOTES TO UX TEAM, ERASE AND REPLACE BEFORE TURNING IN !!!! !!! !!! <br>
-(Use graphs/ charts/ tables instead of average (no pie chart) (good: stacked bar chart)) 
-[1] [2] [  3   ] [4] [        5     ]
-
-Add class task
-
---- !! !!! !! 
-
 <h2>Conclusions</h2>
 
 <p>During our study, we gathered valuable insights about our potential users, prototype, and design. As mentioned earlier, 40% of our participants rated our software lower than what they normally use. This is significant because our software is supposed to be easier to use compared to our competitors. In order for our software to be successful, it needs to be better for the majority of users. With 40% of our participants indicating that our software is more difficult to use, we need to either redesign the software or run more test cases. It is worth noting that we only tested with a small group of 5 participants, so each individual's feedback carries significant weight (20%). While 40% may seem like a significant proportion, it is important to consider the limited sample size.
