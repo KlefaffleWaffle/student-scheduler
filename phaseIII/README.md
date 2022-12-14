@@ -5,14 +5,13 @@ Austin Devine
 Avery Pound
 
 Dominic London
-
+---
 <h3>Introduction:</h3>
 <p>The Student Scheduler User Experience (UX) team, consisting of Austin Devine, Avery Pound, and Dominic London, has been conducting research to gain insight into the user experience with our new product: Student Scheduler. This website and app allow users to easily schedule their extra-curricular activities around their classes. With additional features and a user-friendly design, Student Scheduler aims to provide a better experience than similar programs. In our latest tests, we invited potential users to try our software and provided us with valuable feedback on the usability and functionality of the product. However, we have identified areas for improvement and will continue to refine the design before release.<p>
 <br>
 <h2>Methods:</h2>
 <p>A "method" in the context of user experience testing refers to the specific approach or technique used to collect data and evaluate the user experience with a product or service. There are many different methods that can be used for user experience testing, and the appropriate method will depend on the specific goals and objectives of the study, as well as the target audience and available resources.
 </p>
-  
 <p>Our study consisted of analyzing five potential users using our software while learning about their feelings regarding not only our software, but the software of our competitors. We started off with a questionnaire asking users a variety of questions about the software and tools they use to schedule their classes and extracurricular activities. These questions included:</p>
 <ul>
 <li>"Do you schedule your classes on your own, unassisted? (This includes parents, advisors, or friends.)"</li>
@@ -20,7 +19,6 @@ Dominic London
 <li>"Are there any features you can recall from memory that you find especially useful when trying to find classes to schedule, and then scheduling said classes?"</li>
 <li>"How would you rate your experiences with other programs you have used on a scale of 1-10 in the following categories: Finding Classes, Scheduling Classes, Scheduling Classes around extracurricular activities?"</li>
 </ul></p>
-
 <p>After asking the above questions, we asked our participants to complete a series of tasks using a prototype created in Adobe XD. Before having the participants complete the task, we explained that we expect they will have used the program before and there are some pre-existing user-generated items that they will not have to create. We then proceeded to administer the tasks. These tasks were as follows:</p>
 <ul>
 <li>"We want you to login and create a new recurring event, one hour of going to the gym."</li>
@@ -36,7 +34,7 @@ Dominic London
 </ul>
 </p>
 
-
+note to UX team VVVV erase and replace
 Relay design recommendations.
 
 method: n = 5 (number of participants)
