@@ -3,8 +3,8 @@ Avery Pound
 Dominic London
 Phase III: Prototype Testing
 <br>
-Introduction:
-	The Student Scheduler User Engineering team, consisting of Austin Devine, Avery Pound, and Dominic London, has been working to gain insight into the user experience regarding our new product: Student Scheduler. This website, and eventually app, will allow users to schedule their extra-curricular activities around their classes and vice versa. Its main draws are that it has additional features compared to similar programs, while also being easier to use. In our latest tests, we gave potential users a chance to try our software. This provided great insight into our potential user base as we learned not only how our users will use the software, but also what they thought. While our tests provided great insight, we learned that our design is not ready for release at this time.
+<h3>Introduction:</h3>
+<p>The Student Scheduler User Engineering team, consisting of Austin Devine, Avery Pound, and Dominic London, has been working to gain insight into the user experience regarding our new product: Student Scheduler. This website, and eventually app, will allow users to schedule their extra-curricular activities around their classes and vice versa. Its main draws are that it has additional features compared to similar programs, while also being easier to use. In our latest tests, we gave potential users a chance to try our software. This provided great insight into our potential user base as we learned not only how our users will use the software, but also what they thought. While our tests provided great insight, we learned that our design is not ready for release at this time.<p>
 <br>
 Methods:
 	Our study consisted of analyzing five potential users using our software while learning about their feelings regarding not only our software, but the software of our competitors. We started off with a questionnaire asking users a variety of questions about the software and tools they use to schedule their classes and extracurricular activities. These questions included, 
