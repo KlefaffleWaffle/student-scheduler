@@ -126,7 +126,9 @@ Remove the “+/-” buttons and instead have the user click on the activity the
 Discoveries made, critiques about prototype - revisions to design or prototype, missing, features
 
 
-Caveats: Our sample size is small, same background, Didn’t test them based on their ability to…, possibly poor clarity of questions,
+<h3>Caveats</h3> 
+<p>There are several potential caveats that may have affected the results of this study. First, the sample size of five participants is relatively small, which means that the results may not be representative of the broader population of users. Additionally, the participants were self-selected, which means that they may not be representative of the general population of users. Furthermore, the results of the study may have been influenced by the specific tasks and questions that were used, which may not have accurately captured the full range of experiences and opinions of users. Finally, the use of a prototype in the study may have influenced the participants' responses and actions, as they may not have had a complete understanding of the final product.
+</p>
 
 
 15 minute time intervals,
