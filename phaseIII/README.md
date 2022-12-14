@@ -72,7 +72,7 @@ After the tasks, we asked a few follow up questions. The first was asking if the
 <p>Most of our users commented that our software was good. One commented that they  really liked the ability to see the calendar at all times, while a more critical feedback was that they’d like to see information in the boxes on the calendar. We also found that users were a little confused about how to add events to their calendar. Most understood that they needed to click on the event, but they saw no confirmation, after a moment or two many realized that they needed to click on the “+” button to complete the task. One particular individual noted that they didn’t feel they had completed the task even though they had. This is because they didn’t see their calendar update, however this was a limitation of our prototype, and their expectation of what would happen was correct.
 </p>
 
--- NOTES TO UX TEAM, ERASE AND REPLACE BEFORE TURNING IN !!!! !!! !!!
+-- NOTES TO UX TEAM, ERASE AND REPLACE BEFORE TURNING IN !!!! !!! !!! <br>
 (Use graphs/ charts/ tables instead of average (no pie chart) (good: stacked bar chart)) 
 [1] [2] [  3   ] [4] [        5     ]
 
@@ -109,7 +109,7 @@ Remove the “+/-” buttons and instead have the user click on the activity the
 </p>
 
 
--- NOTES TO UX TEAM, ERASE AND REPLACE BEFORE TURNING IN !! !! !!
+-- NOTES TO UX TEAM, ERASE AND REPLACE BEFORE TURNING IN !! !! !! <br>
 Discoveries made, critiques about prototype - revisions to design or prototype, missing, features
 
 
