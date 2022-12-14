@@ -30,7 +30,8 @@ Dominic London
 <p>As the participants completed the tasks, we took careful notes about what they said and how they interacted with our program. We recorded what they clicked on, where they moved the mouse, and what they said they were looking for. After the participants finished their attempts, we asked them to answer a few follow-up questions, including:</p>
 <ul>
 <li>"Were there any features you expected that were not present or otherwise hard to find?"</li>
-<li>"How would you rate your experiences with our program on a scale of 1-10 in the following categories: Finding buttons you were looking for, Scheduling classes and events?"</li>
+<li>"How would you rate your experiences with our program on a scale of 1-10 in the following categories: 
+  <ul><li>Finding buttons you were looking for</li> <li>Scheduling classes and events?"</i></ul></li>
 <li>"Do you have any other thoughts or comments?"</li>
 </ul>
 </p>
