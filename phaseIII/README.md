@@ -8,7 +8,6 @@ Dominic London
 ---
 <h3>Introduction:</h3>
 <p>The Student Scheduler User Experience (UX) team, consisting of Austin Devine, Avery Pound, and Dominic London, has been conducting research to gain insight into the user experience with our new product: Student Scheduler. This website and app allow users to easily schedule their extra-curricular activities around their classes. With additional features and a user-friendly design, Student Scheduler aims to provide a better experience than similar programs. In our latest tests, we invited potential users to try our software and provided us with valuable feedback on the usability and functionality of the product. However, we have identified areas for improvement and will continue to refine the design before release.<p>
-<br>
 <h2>Methods</h2>
 <p>A "method" in the context of user experience testing refers to the specific approach or technique used to collect data and evaluate the user experience with a product or service. There are many different methods that can be used for user experience testing, and the appropriate method will depend on the specific goals and objectives of the study, as well as the target audience and available resources.
 </p>
