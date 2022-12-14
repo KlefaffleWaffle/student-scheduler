@@ -56,18 +56,21 @@ Median: 5 <br>
 
 <h3>Tasks</h3> 
 <h4>Task 1</h4>
+
 _"We want you to login and create a new recurring event, one hour of going to the gym."_
 
 <p>During task 1, all participants were able to successfully complete the task in approximately one minute or less. However, we received some common feedback indicating a lack of clarity around setting the event time. Two participants mentioned that there was no indication of how to set the timing of the event. Our prototype included a dual-ended, adjustable bar for setting the time, but the slider bar was not labeled and there were no times displayed in the window. This lack of labeling and visual cues created confusion for some participants and made it difficult for them to understand how to set the time for the event. This is a critical issue because being able to control the timing of events is an essential part of the user experience. In hindsight, we should have included specific instructions for setting the time in the task description, and we will be sure to incorporate this in future testing. Despite this issue, the participants were able to complete the task successfully.
 </p>
 
 <h4>Task 2</h4>
+
 _"Assuming you have used this software before and already added an extra-curricular event to your profile, we want you to add the already existing event to your schedule. In this case, add 'Milo's Piano Lesson.' This task is NOT dependent on your success on Task 1."_
 
 <p>During task 2, our participants encountered some challenges and had different approaches and feedback regarding adding events to their schedules. Our first participant had the right idea but struggled to find the "+" button. This was a common issue among participants, who expected to be able to simply click on the event to complete the task. After a moment, the first participant spotted the button and successfully completed the task. The second participant also had difficulty finding the "+" button, but eventually located it and completed the task. The third participant initially clicked on the "Create Event" button instead of the "Add Event" button, but realized the mistake and went back to the main menu to complete the task successfully. The fourth participant was confused by the "+/-" buttons and thought they might be for zooming in and out, but was able to complete the task through experimentation. The final participant completed the task easily but noted that the event he was supposed to add was highlighted by default, which caused some confusion. This issue with the prototype highlights the importance of clear visual design and labeling for buttons and other interactive elements.
 </p>
 
 <h4>Task 3</h4> 
+
 _"We want you to delete one of the classes from your schedule. The class you have already signed up for is CSCI 511."_
 
 <p>Almost all participants in our study completed task 3 quickly and easily, which indicates that the language and purpose of the buttons used in the task were clear and easily understood. This is an important aspect of design, as buttons with unclear or uncertain purposes can cause confusion and frustration for users. By ensuring that the buttons in our application are clearly labeled and easy to understand, we were able to make the task more learnable and user-friendly. Overall, this test showed us that our design decisions were successful in making the task easy to navigate and complete. 
