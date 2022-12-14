@@ -89,7 +89,7 @@ Add class task
 
 --- !! !!! !! 
 
-<h2>Conclusion</h2>
+<h2>Conclusions</h2>
 
 <p>During our study, we gathered valuable insights about our potential users, prototype, and design. As mentioned earlier, 40% of our participants rated our software lower than what they normally use. This is significant because our software is supposed to be easier to use compared to our competitors. In order for our software to be successful, it needs to be better for the majority of users. With 40% of our participants indicating that our software is more difficult to use, we need to either redesign the software or run more test cases. It is worth noting that we only tested with a small group of 5 participants, so each individual's feedback carries significant weight (20%). While 40% may seem like a significant proportion, it is important to consider the limited sample size.
 </p>
@@ -107,7 +107,7 @@ In addition to these changes, we will also need to revise our testing protocol i
 <p>We would also highly recommend adding a task or sub-task about setting the time of an event when creating it. It’s important because multiple participants expressed concern about not knowing how to set the time when it wasn’t even necessary to complete the task. If it stood out to them that much, its probably worth looking into and fixing.
 </p>
 
-<h3>Prototype</h3> 
+<h3>Notes on Prototype</h3> 
 <p>Relatively fully functional as opposed to just core functionality. For example we didn’t think participants would find the profile icon to be relevant so we didn’t program any functionality for it. However sometimes participants don’t think the same way we do and they click on and try to interact with items in a way the developers don’t anticipate. As developers of the prototype we should anticipate this.
 Develop our prototype to give real time feedback. 
 </p>
@@ -116,16 +116,13 @@ One participant was confused by the functionality of our time bar. As designers 
 </p>
 <p>One participant was confused about whether or not he had completed a task because there was nothing indicating that anything had changed.
 </p>
-<h3>Design</h3>
+<h3>Notes on Design</h3>
 <p>We need to add time labels to the time bar when creating an event.
 Remove the “+/-” buttons and instead have the user click on the activity they want to add or remove,  perhaps this could be indicated with some events having automatically determined check-boxes suggesting that they are or are not currently in the schedule.
 </p>
+<p>As students, our time is precious and every minute counts. Scheduling classes and extracurricular activities can be a daunting and time-consuming task, but it doesn't have to be. Our Student Scheduler software is designed to make this process as smooth and effortless as possible, allowing students to focus on what's truly important: learning and personal growth. With its intuitive design and helpful features, our software empowers students to take control of their schedules and make the most of their time. In a world where time is of the essence, our Student Scheduler is a valuable tool for any student looking to make the most of their education.
+</p>
 
-
--- NOTES TO UX TEAM, ERASE AND REPLACE BEFORE TURNING IN !! !! !! <br>
-Discoveries made, critiques about prototype - revisions to design or prototype, missing, features
-
-
-<h3>Caveats</h3> 
+<h4>Caveats</h4> 
 <p>There are several potential caveats that may have affected the results of this study. First, the sample size of five participants is relatively small, which means that the results may not be representative of the broader population of users. Additionally, the participants were self-selected, which means that they may not be representative of the general population of users. Furthermore, the results of the study may have been influenced by the specific tasks and questions that were used, which may not have accurately captured the full range of experiences and opinions of users. Finally, the use of a prototype in the study may have influenced the participants' responses and actions, as they may not have had a complete understanding of the final product.
 </p>
