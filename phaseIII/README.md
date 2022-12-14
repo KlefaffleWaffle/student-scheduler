@@ -129,8 +129,3 @@ Discoveries made, critiques about prototype - revisions to design or prototype, 
 <h3>Caveats</h3> 
 <p>There are several potential caveats that may have affected the results of this study. First, the sample size of five participants is relatively small, which means that the results may not be representative of the broader population of users. Additionally, the participants were self-selected, which means that they may not be representative of the general population of users. Furthermore, the results of the study may have been influenced by the specific tasks and questions that were used, which may not have accurately captured the full range of experiences and opinions of users. Finally, the use of a prototype in the study may have influenced the participants' responses and actions, as they may not have had a complete understanding of the final product.
 </p>
-
-
-15 minute time intervals,
-
--- !! !! !! !!
