@@ -81,6 +81,7 @@ Some insights we got from our cognitive walkthroughs are as follows:
 
 **Executive Summary** 
 
-In Phase III we conducted a study wherein we analyzed five potential users using our software and their feelings about it compared to other scheduling software. We started with a questionnaire about their current scheduling habits and tools. We then had them complete a series of tasks using our prototype, and asked them follow-up questions about their experiences. We received positive feedback about the calendar view and layout, but some confusion about the time bar and buttons. Our participants also had some incorrect assumptions about how to use the software. Based on this, we recommend making adjustments to the time bar and button labels, and adding an additional question to future tests to validate the scores given.
-
+<p>In Phase III we conducted a study wherein we analyzed five potential users using our software and their feelings about it compared to other scheduling software. We started with a questionnaire about their current scheduling habits and tools. We then had them complete a series of tasks using our prototype, and asked them follow-up questions about their experiences. 
+</p><p>We received positive feedback about the calendar view and layout, but some confusion about the time bar and buttons. Our participants also had some incorrect assumptions about how to use the software. Based on this, we recommend making adjustments to the time bar and button labels, and adding an additional question to future tests to validate the scores given.
+</p>
 [Full phase III report](phaseIII/)
