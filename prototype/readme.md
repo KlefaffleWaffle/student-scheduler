@@ -2,4 +2,4 @@ The Student Scheduler prototype is a digital tool designed to help students sche
 
 [This sentence is a link to our design prototype in Adobe XD](https://xd.adobe.com/view/11f4d118-7462-41c5-badf-0fb34a103cc9-44a7/)
 
-Below is a visual of our prototype, but since it is images does not include the button functionality. 
+Below is a visual of our prototype, but since it is purely images, what follows does not include the button functionality. 
