@@ -22,7 +22,7 @@ Dominic London<br>
 <li>"Assuming you have used this software before and already added an extra-curricular event to your profile, we want you to add the already existing event to your schedule. In this case, add 'Milo's Piano Lesson.' This task is NOT dependent on your success on Task 1."</li>
 <li>"We want you to delete one of the classes from your schedule. The class you have already signed up for is CSCI 511."</li>
 </ul>
-<p>As the participants completed the tasks, we took careful notes about what they said and how they interacted with our program. We recorded what they clicked on, where they moved the mouse, and what they said they were looking for. After the participants finished their attempts, we asked them to answer a few follow-up questions, including:</p>
+<p>As the participants completed the tasks, we gathered data from what they said and how they interacted with our program. We took note of what they clicked on, where they moved the mouse, and what they said they were looking for. After the participants finished their attempts, we asked them to answer a few follow-up questions, including:</p>
 <ul>
 <li>"Were there any features you expected that were not present or otherwise hard to find?"</li>
 <li>"How would you rate your experiences with our program on a scale of 1-10 in the following categories: 
@@ -30,11 +30,6 @@ Dominic London<br>
 <li>"Do you have any other thoughts or comments?"</li>
 </ul>
 </p>
-
-note to UX team VVVV erase and replace
-Relay design recommendations.
-
-method: n = 5 (number of participants)
 
 <h2>Findings</h2>
 <p>We found that all of our participants schedule their classes independently and use the Chico State scheduler. One participant mentioned using Shasta College's scheduler in addition to Chico State's, while another participant mentioned using Excel to keep track of class times. We received useful feedback on features that participants find helpful when scheduling classes, including:
@@ -60,26 +55,22 @@ Median: 5 <br>
 
 
 <h3>Tasks</h3> 
-
 <h4>Task 1</h4>
-
 _"We want you to login and create a new recurring event, one hour of going to the gym."_
 
 <p>During task 1, all participants were able to successfully complete the task in approximately one minute or less. However, we received some common feedback indicating a lack of clarity around setting the event time. Two participants mentioned that there was no indication of how to set the timing of the event. Our prototype included a dual-ended, adjustable bar for setting the time, but the slider bar was not labeled and there were no times displayed in the window. This lack of labeling and visual cues created confusion for some participants and made it difficult for them to understand how to set the time for the event. This is a critical issue because being able to control the timing of events is an essential part of the user experience. In hindsight, we should have included specific instructions for setting the time in the task description, and we will be sure to incorporate this in future testing. Despite this issue, the participants were able to complete the task successfully.
 </p>
 
 <h4>Task 2</h4>
-
 _"Assuming you have used this software before and already added an extra-curricular event to your profile, we want you to add the already existing event to your schedule. In this case, add 'Milo's Piano Lesson.' This task is NOT dependent on your success on Task 1."_
 
 <p>During task 2, our participants encountered some challenges and had different approaches and feedback regarding adding events to their schedules. Our first participant had the right idea but struggled to find the "+" button. This was a common issue among participants, who expected to be able to simply click on the event to complete the task. After a moment, the first participant spotted the button and successfully completed the task. The second participant also had difficulty finding the "+" button, but eventually located it and completed the task. The third participant initially clicked on the "Create Event" button instead of the "Add Event" button, but realized the mistake and went back to the main menu to complete the task successfully. The fourth participant was confused by the "+/-" buttons and thought they might be for zooming in and out, but was able to complete the task through experimentation. The final participant completed the task easily but noted that the event he was supposed to add was highlighted by default, which caused some confusion. This issue with the prototype highlights the importance of clear visual design and labeling for buttons and other interactive elements.
 </p>
-<h4>Task 3</h4> 
 
+<h4>Task 3</h4> 
 _"We want you to delete one of the classes from your schedule. The class you have already signed up for is CSCI 511."_
 
-<h2> !!! NOTE to UX team, add more detail </h2>
-<p>Almost all participants completed task 3 quickly and easily. 
+<p>Almost all participants in our study completed task 3 quickly and easily, which indicates that the language and purpose of the buttons used in the task were clear and easily understood. This is an important aspect of design, as buttons with unclear or uncertain purposes can cause confusion and frustration for users. By ensuring that the buttons in our application are clearly labeled and easy to understand, we were able to make the task more learnable and user-friendly. Overall, this test showed us that our design decisions were successful in making the task easy to navigate and complete. 
 </p>
 
 <p>After the tasks, we asked some follow-up questions. The first question asked whether there were any features they expected but were not present. Most participants said no, but one mentioned the need for a way to control the time when creating an event, and another mentioned that the profile button should be clickable. Although these features were not necessary for completing the tasks, the feedback indicates that some participants had expectations or assumptions about the functionality of the software. For example, the participant who thought the profile button should be clickable may have expected it to show a list of pre-existing events. In future testing, we will consider including a page that demonstrates the functionality of the profile button to avoid any confusion or misunderstandings.
