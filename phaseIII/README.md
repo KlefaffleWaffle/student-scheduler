@@ -53,6 +53,7 @@ Max: 10 <br>
 Min: 2 <br>
 Median: 5 <br>
 
+<img src="4A, 4B and 4C(2).png" />
 
 <h3>Tasks</h3> 
 <h4>Task 1</h4>
@@ -83,6 +84,10 @@ _"We want you to delete one of the classes from your schedule. The class you hav
 
 <p>After completing the tasks, we asked participants to rate their experience with our software on a scale of 1-10 in terms of finding buttons they were looking for and scheduling classes or events. Most of our participants gave us good ratings, with 80% giving us a score of 8/10 or higher for both categories (see Table 2 for more details). One interesting finding was that 40% of our participants found it easier to schedule classes, 20% said it was about the same, and 40% found it harder. However, even those who gave us lower ratings still scored us an 8/10. Since this was an analysis of statistical scores and not an explicit comparison, we are somewhat skeptical that these values accurately reflect the quality of our software. Further investigation may be needed.
 </p>
+
+<img src="2A and 2B.png" />
+<img src="Screenshot 2022-12-14 151638.jpg" />
+
 <p>Finally, we asked participants if they had any additional comments and received both positive and constructive feedback. One participant provided several positive comments, such as "Pretty Good," "Well laid out," and "I appreciate always seeing the calendar." They also suggested that the product would be even better with some color coordination. Another participant was more critical, mentioning the lack of time on our prototype for creating events and the lack of information in the boxes representing classes and events. We believe these suggestions would be valuable to consider for the final product and potentially for our prototype as well. One participant mentioned that our program was "Confusing," which is feedback that we will take into account in future development. Another tester criticized the limited functionality of our prototype and suggested the inclusion of a back button. However, since our prototype was presented in a web format, the browser window typically includes a back button. We believe this feedback may have been a result of the limited functionality of our prototype. Finally, our last participant simply commented that we did a "Good Job." Overall, we appreciate all the feedback we received and will take it into consideration as we continue to improve our software.
 </p>
 <p>Most of our participants had positive feedback about our software. One participant mentioned that they appreciated the ability to see the calendar at all times, while another suggested that the boxes on the calendar should include more information. In terms of adding events to the calendar, we observed that some participants were confused about how to complete the task. Most understood that they needed to click on the event, but did not see a confirmation of the action. After a moment or two, many realized that they needed to click on the "+" button to complete the task. However, one participant noted that they did not feel that they had successfully completed the task, even though they had. This may have been because they did not see their calendar update, which was a limitation of our prototype. Despite this, their expectation of what would happen was correct. Overall, we received valuable feedback from our participants and will take their comments into consideration as we continue to improve our software.
