@@ -71,7 +71,7 @@ Median: 5 <br>
 <p>During task 2, our participants encountered some challenges and had different approaches and feedback regarding adding events to their schedules. Our first participant had the right idea but struggled to find the "+" button. This was a common issue among participants, who expected to be able to simply click on the event to complete the task. After a moment, the first participant spotted the button and successfully completed the task. The second participant also had difficulty finding the "+" button, but eventually located it and completed the task. The third participant initially clicked on the "Create Event" button instead of the "Add Event" button, but realized the mistake and went back to the main menu to complete the task successfully. The fourth participant was confused by the "+/-" buttons and thought they might be for zooming in and out, but was able to complete the task through experimentation. The final participant completed the task easily but noted that the event he was supposed to add was highlighted by default, which caused some confusion. This issue with the prototype highlights the importance of clear visual design and labeling for buttons and other interactive elements.
 </p>
 <h4>Task 3</h4> 
-<h1> NOTE to UX team, add more detail </h1>
+<h2> !!! NOTE to UX team, add more detail </h2>
 <p>Almost all participants completed task 3 quickly and easily. 
 </p>
 
@@ -92,7 +92,7 @@ Add class task
 
 --- !! !!! !! 
 
-<h2>Conclusion: </h2>
+<h2>Conclusion</h2>
 
 <p>During our study, we gathered valuable insights about our potential users, prototype, and design. As mentioned earlier, 40% of our participants rated our software lower than what they normally use. This is significant because our software is supposed to be easier to use compared to our competitors. In order for our software to be successful, it needs to be better for the majority of users. With 40% of our participants indicating that our software is more difficult to use, we need to either redesign the software or run more test cases. It is worth noting that we only tested with a small group of 5 participants, so each individual's feedback carries significant weight (20%). While 40% may seem like a significant proportion, it is important to consider the limited sample size.
 </p>
