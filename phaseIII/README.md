@@ -9,7 +9,7 @@ Dominic London
 <h3>Introduction:</h3>
 <p>The Student Scheduler User Experience (UX) team, consisting of Austin Devine, Avery Pound, and Dominic London, has been conducting research to gain insight into the user experience with our new product: Student Scheduler. This website and app allow users to easily schedule their extra-curricular activities around their classes. With additional features and a user-friendly design, Student Scheduler aims to provide a better experience than similar programs. In our latest tests, we invited potential users to try our software and provided us with valuable feedback on the usability and functionality of the product. However, we have identified areas for improvement and will continue to refine the design before release.<p>
 <br>
-<h2>Methods:</h2>
+<h2>Methods</h2>
 <p>A "method" in the context of user experience testing refers to the specific approach or technique used to collect data and evaluate the user experience with a product or service. There are many different methods that can be used for user experience testing, and the appropriate method will depend on the specific goals and objectives of the study, as well as the target audience and available resources.
 </p>
 <p>Our study consisted of analyzing five potential users using our software while learning about their feelings regarding not only our software, but the software of our competitors. We started off with a questionnaire asking users a variety of questions about the software and tools they use to schedule their classes and extracurricular activities. These questions included:</p>
@@ -39,7 +39,7 @@ Relay design recommendations.
 
 method: n = 5 (number of participants)
 
-Findings: 
+<h2>Findings</h2>
 <p>We found that all of our participants schedule their classes independently and use the Chico State scheduler. One participant mentioned using Shasta College's scheduler in addition to Chico State's, while another participant mentioned using Excel to keep track of class times. We received useful feedback on features that participants find helpful when scheduling classes, including:
 <ul><li>"seeing classes in a calendar" </li><li>"being able to see the schedule with classes in the cart," </li><li>three participants mentioned the "Student Scheduler" specifically</li></ul>
 
@@ -61,17 +61,16 @@ Max: 10 <br>
 Min: 2 <br>
 Median: 5 <br>
 
----
 
-Below are results and analysis of the tasks we asked each participant to complete. 
+<h3>Tasks</h3> 
 
-<h3>Task 1</h3>
+<h4>Task 1</h4>
 <p>During task 1, all participants were able to successfully complete the task in approximately one minute or less. However, we received some common feedback indicating a lack of clarity around setting the event time. Two participants mentioned that there was no indication of how to set the timing of the event. Our prototype included a dual-ended, adjustable bar for setting the time, but the slider bar was not labeled and there were no times displayed in the window. This lack of labeling and visual cues created confusion for some participants and made it difficult for them to understand how to set the time for the event. This is a critical issue because being able to control the timing of events is an essential part of the user experience. In hindsight, we should have included specific instructions for setting the time in the task description, and we will be sure to incorporate this in future testing. Despite this issue, the participants were able to complete the task successfully.
 </p>
-<h3>Task 2</h3>
+<h4>Task 2</h4>
 <p>During task 2, our participants encountered some challenges and had different approaches and feedback regarding adding events to their schedules. Our first participant had the right idea but struggled to find the "+" button. This was a common issue among participants, who expected to be able to simply click on the event to complete the task. After a moment, the first participant spotted the button and successfully completed the task. The second participant also had difficulty finding the "+" button, but eventually located it and completed the task. The third participant initially clicked on the "Create Event" button instead of the "Add Event" button, but realized the mistake and went back to the main menu to complete the task successfully. The fourth participant was confused by the "+/-" buttons and thought they might be for zooming in and out, but was able to complete the task through experimentation. The final participant completed the task easily but noted that the event he was supposed to add was highlighted by default, which caused some confusion. This issue with the prototype highlights the importance of clear visual design and labeling for buttons and other interactive elements.
 </p>
-<h3>Task 3</h3> 
+<h4>Task 3</h4> 
 <h1> NOTE to UX team, add more detail </h1>
 <p>Almost all participants completed task 3 quickly and easily. 
 </p>
