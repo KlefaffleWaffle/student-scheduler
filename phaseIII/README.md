@@ -133,6 +133,6 @@ Remove the “+/-” buttons and instead have the user click on the activity the
 <p>As students, our time is precious and every minute counts. Scheduling classes and extracurricular activities can be a daunting and time-consuming task, but it doesn't have to be. Our Student Scheduler software is designed to make this process as smooth and effortless as possible, allowing students to focus on what's truly important: learning and personal growth. With its intuitive design and helpful features, our software empowers students to take control of their schedules and make the most of their time. In a world where time is of the essence, our Student Scheduler is a valuable tool for any student looking to make the most of their education.
 </p>
 
-<h4>Caveats</h4> 
+<h3>Caveats</h3> 
 <p>There are several potential caveats that may have affected the results of this study. First, the sample size of five participants is relatively small, which means that the results may not be representative of the broader population of users. Additionally, the participants were self-selected, which means that they may not be representative of the general population of users. Furthermore, the results of the study may have been influenced by the specific tasks and questions that were used, which may not have accurately captured the full range of experiences and opinions of users. Finally, the use of a prototype in the study may have influenced the participants' responses and actions, as they may not have had a complete understanding of the final product.
 </p>
