@@ -130,6 +130,9 @@ One participant was confused by the functionality of our time bar. As designers 
 <p>We need to add time labels to the time bar when creating an event.
 Remove the “+/-” buttons and instead have the user click on the activity they want to add or remove,  perhaps this could be indicated with some events having automatically determined check-boxes suggesting that they are or are not currently in the schedule.
 </p>
+
+<img src="new Design.jpg" />
+
 <p>As students, our time is precious and every minute counts. Scheduling classes and extracurricular activities can be a daunting and time-consuming task, but it doesn't have to be. Our Student Scheduler software is designed to make this process as smooth and effortless as possible, allowing students to focus on what's truly important: learning and personal growth. With its intuitive design and helpful features, our software empowers students to take control of their schedules and make the most of their time. In a world where time is of the essence, our Student Scheduler is a valuable tool for any student looking to make the most of their education.
 </p>
 
