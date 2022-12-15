@@ -128,7 +128,7 @@ One participant was confused by the functionality of our time bar. As designers 
 </p>
 <h3>Notes on Design</h3>
 <p>We need to add time labels to the time bar when creating an event.
-Remove the “+/-” buttons and instead have the user click on the activity they want to add or remove,  perhaps this could be indicated with some events having automatically determined check-boxes suggesting that they are or are not currently in the schedule.
+Remove the “+/-” buttons and instead have the user click on the activity they want to add or remove,  perhaps this could be indicated with some events having switches suggesting whether they are or are not currently in the schedule.
 </p>
 
 <img src="new Design.jpg" />
