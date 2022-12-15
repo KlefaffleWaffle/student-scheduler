@@ -81,8 +81,13 @@ Some insights we got from our cognitive walkthroughs are as follows:
 
 **Executive Summary** 
 
-<p>In Phase III we conducted a study wherein we analyzed five potential users using our software and their feelings about it compared to other scheduling software. We started with a questionnaire about their current scheduling habits and tools. We then had them complete a series of tasks using our prototype, and asked them follow-up questions about their experiences. 
-</p><p>We received positive feedback about the calendar view and layout, but some confusion about the time bar and buttons. Our participants also had some incorrect assumptions about how to use the software. Based on this, we recommend making adjustments to the time bar and button labels, and adding an additional question to future tests to validate the scores given.
+<p>In this phase, we built and tested a prototype of our design with 5 potential users. We developed a protocol which included asking participants about their experiences with similar software, asking our users to complete various tasks, and concluded with a follow up survey.
+
+We got many insights from these tests. Users really liked that they could see the calendar at all times, but some users had some incorrect assumptions about how to use the software. That being said, most of our users were able to use our product with relative ease, but there were two majors concerns we found when testing. Our design didn’t feature a label for setting time when creating an event, and the second concern was that the plus and minus buttons, which are used for adding events to the calendar, caused some confusion. All participants figured it out, but they all seemed surprised by this step, as though they found it unnecessary. We found that most users gave us positive scores for our software rating it with an 8/10 or higher, but some rated our system worse than our competitors.
+
+In conclusion, we have some revisions we need to make to our design, our prototype and our protocol. Our new design will remove some “Main Menu” buttons and combine their pages with another, we will add times labels to our “Create Event” menu, and we will replace the plus and minus buttons with switches for individual events. We will give our prototype more functionality outside of the core programming because this may give us insight into how our users interact with our software, and we will also program the time sliders, as this seemed to confuse some participants. Finally ,we will add a question to our protocol to validate whether or not potential users find our system more or less efficient than our competitors.
+
+</p><p>
 </p>
 
 [Full phase III report](phaseIII/)
