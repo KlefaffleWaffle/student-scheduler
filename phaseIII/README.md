@@ -32,7 +32,7 @@ The Student Scheduler prototype is a digital tool designed to help students sche
 <ul>
 <li>"Were there any features you expected that were not present or otherwise hard to find?"</li>
 <li>"How would you rate your experiences with our program on a scale of 1-10 in the following categories: 
-  <ul><li>Finding buttons you were looking for</li> <li>Scheduling classes and events?"</i></ul></li>
+  <ul><li>Finding buttons you were looking for</li> <li>Scheduling classes and events?"</i>
 <li>"Do you have any other thoughts or comments?"</li>
 </ul>
 </p>
